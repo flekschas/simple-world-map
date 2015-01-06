@@ -125,6 +125,7 @@ Countries
 | Malawi                           | mw          |
 | Malaysia                         | my          |
 | Mali                             | ml          |
+| Malta                            | mt          |
 | Mauritania                       | mr          |
 | Mexico                           | mx          |
 | Moldova                          | md          |
