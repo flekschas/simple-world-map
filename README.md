@@ -2,7 +2,7 @@ Simple SVG World Map
 ====================
 
 <p align="center">
-  <img src="http://f.lekschas.de/stuff/world-map_github.svg"
+  <img src="https://fl.helium.uberspace.de/stuff/world-map_github.svg"
        alt="A simple SVG world map" />
 </p>
 
