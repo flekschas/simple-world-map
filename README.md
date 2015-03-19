@@ -6,8 +6,7 @@ Simple SVG World Map
        alt="A simple SVG world map" />
 </p>
 
-A simple and lightweight SVG world map with the two-letter country code standard
-ISO 3166-1 annotation.
+A simple and lightweight SVG world map, annotated with two-letter country code standard **[ISO 3166-1 alpha 2][iso]**.
 
 Size:
   * 73.6 KB Uncompressed
@@ -17,10 +16,7 @@ Size:
 
 Annotation
 -----------
-`Paths` are annotated by `id` using the ISO 3166-1 two-letter country code. In
-special cases where no country code is available the country name prefixed with
-an underscore is used. Furthermore, if a countries is comprised of multiple
-`paths` the possible mainland is annotated by class with `mainland`.
+`Paths` are annotated by `id` using the **[ISO 3166-1 alpha 2][iso]** two-letter country code. In special cases ,where no country code is available, the country name prefixed with an underscore (e.g. *_somaliland*). Furthermore, if a country is comprised of multiple `paths` the mainland is annotated by class with `mainland`.
 
 
 Countries
@@ -220,5 +216,6 @@ License
 
 
 [cc]: LICENSE
+[iso]: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 [mf]: mapping.csv
 [svgo]: https://github.com/svg/svgo
