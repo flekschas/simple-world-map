@@ -16,7 +16,7 @@ Size:
 
 Annotation
 -----------
-`Paths` are annotated by `id` using the **[ISO 3166-1 alpha 2][iso]** two-letter country code. In special cases ,where no country code is available, the country name prefixed with an underscore (e.g. *_somaliland*). Furthermore, if a country is comprised of multiple `paths` the mainland is annotated by class with `mainland`.
+`Paths` are annotated by `id` using the **[ISO 3166-1 alpha 2][iso]** two-letter country code. In cases where no country code is available, the country name is prefixed with an underscore (e.g. *_somaliland*). Furthermore, if a country is comprised of multiple `paths` the mainland is annotated with the class `mainland`.
 
 
 Countries
