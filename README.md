@@ -206,7 +206,7 @@ For your convenience find the [mapping file][mf].
 
 Attribution
 -----------
-**Author:** Al MacDonald
+**Author:** Al MacDonald ([Original artwork][original])
 **Editor:** Fritz Lekschas
 
 
@@ -215,6 +215,7 @@ License
 [Creative Commons Attribution-ShareAlike 3.0 Unported][cc]
 
 
+[original]: https://commons.wikimedia.org/wiki/File:World_map_-_low_resolution.svg
 [cc]: LICENSE
 [iso]: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 [mf]: mapping.csv
